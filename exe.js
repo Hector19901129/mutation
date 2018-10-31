@@ -1,3 +1,1 @@
-<script>
-    alert("test");
-</script>
+alert("name");
